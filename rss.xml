@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Johnny Portfolio]]></title>
         <description><![CDATA[Johnny Portfolio]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/JohnnyPortfolio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 Feb 2016 17:41:14 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 08 Feb 2016 04:11:21 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/JohnnyPortfolio/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d6c9f7fd-bc1e-4859-8a8b-6bfe08160611.jpg">]]></description>
+            <link>https://thegrid.ai/JohnnyPortfolio/2a79f963-94c7-48cb-a589-444c82a9af04/index.html</link>
+            <guid isPermaLink="false">2a79f963-94c7-48cb-a589-444c82a9af04</guid>
+            <pubDate>Mon, 08 Feb 2016 04:10:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2fb98320-5192-4b35-89ba-6ab807581145.jpg">]]></description>
-            <link>undefined940d04f9-7044-4303-8036-5fe6b019f3d6/index.html</link>
+            <link>https://thegrid.ai/JohnnyPortfolio/940d04f9-7044-4303-8036-5fe6b019f3d6/index.html</link>
             <guid isPermaLink="false">940d04f9-7044-4303-8036-5fe6b019f3d6</guid>
             <pubDate>Thu, 04 Feb 2016 17:40:36 GMT</pubDate>
         </item>
